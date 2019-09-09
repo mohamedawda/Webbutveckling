@@ -1,0 +1,20 @@
+body {
+  background-color: lightblue;
+    font-family : arial;
+
+}
+
+h1.text {
+  color:blue;
+  font-size: 22px;
+}
+
+h1.mohamed {
+  color: white;
+  font-size: 20px;
+  background-color: green;
+  
+}
+
+
+
