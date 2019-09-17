@@ -1,3 +1,5 @@
+p.inset {border-style: inset;}
+
 body {
   background-color: lightblue;
     font-family : arial;
